@@ -1,7 +1,7 @@
 # Vitriolic-Sphere-Macro
 Simple sequencer macro for Vitriolic Sphere
 
-##Modules required: 
+## Modules required: 
 - [Sequencer 2.0](https://github.com/fantasycalendar/FoundryVTT-Sequencer)
 - [Midi-QOL](https://gitlab.com/tposney/midi-qol)
 - [ItemMacro](https://github.com/Kekilla0/Item-Macro)
