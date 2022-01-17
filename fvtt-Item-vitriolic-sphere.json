@@ -236,7 +236,7 @@
       }
     },
     "autoanimations": {
-      "killAnim": true,
+      "killAnim": false,
       "below": false,
       "override": false,
       "targetToken": {
