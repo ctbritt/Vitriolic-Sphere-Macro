@@ -1,2 +1,2 @@
 # Vitriolic-Sphere-Macro
-macro for Vitriolic Sphere
+Simple sequencer macro for Vitriolic Sphere
