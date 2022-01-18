@@ -16,3 +16,6 @@ new Sequence()
   .scaleIn(0.1, 200, { ease: "easeOutQuint", delay: 100 })
   .fadeOut(1000, { ease: "easeInQuad" })
   .play();
+
+// make the template go away
+await template.document.delete()
